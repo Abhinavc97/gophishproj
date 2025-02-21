@@ -54,14 +54,64 @@ The primary goal of this project was to:
 ## **6. Conclusion**
 This project provided hands-on experience with GoPhish and demonstrated how phishing campaigns are executed and detected. The findings reinforce the importance of **cybersecurity awareness training**, **technical email security measures**, and **critical thinking before interacting with suspicious emails**.
 
-### **7. Future Work**
+## **7. Future Work**
 - Deploy the campaign to **a test group of users** and analyze real-world responses.
 - Experiment with **advanced evasion techniques** (e.g., URL redirection, obfuscated payloads).
 - Explore **automated phishing detection** tools to counter such attacks.
 
 ---
-### **Project Artifacts:**
-- **Screenshots:** 
-- **Landing page:**
-- **Redirect page:**
+# **[Project Artifacts](project%20artifacts):**
+
+## Screeshots:
+
+## Step 1: Setting Up Gophish & Deploying on Railway  
+### Deploying Gophish on Railway  
+![Railway Deploy](project%20artifacts/screenshots/railway%20deploy.png)  
+
+### User & Group Setup  
+![User and Group Setup](project%20artifacts/screenshots/user%20and%20group%20setup.png) 
+
+
+---
+
+## Step 2: Understanding the Legitimate Password Reset Email  
+### Original Latch Password Reset Email  
+![Original Latch Email](project%20artifacts/screenshots/original%20latch%20password%20reset%20email.png)  
+
+### Latch Password Reset Email (Received)  
+![Latch Password Reset Email](project%20artifacts/screenshots/latch%20password%20reset%20email.png)  
+
+---
+
+## Step 3: Creating the Fake Phishing Page  
+### Fake Latch Password Reset Email (Sent to Users)  
+![Phishing Mail](project%20artifacts/screenshots/phishing%20mail.png)  
+
+### Fake Latch Password Reset Page  
+![Fake Reset Page](project%20artifacts/screenshots/fake%20latch%20password%20reset.png)  
+
+### Fake Password Reset Success Page  
+![Fake Reset Success](project%20artifacts/screenshots/fake%20password%20reset%20success.png)  
+
+---
+
+##  Step 4: Configuring the Phishing Campaign  
+### Campaign Configuration in Gophish  
+![Campaign Config](project%20artifacts/screenshots/campaign%20config.png)  
+
+---
+
+##  Step 5: Monitoring Results & Reports  
+### Graphical Report of Phishing Campaign  
+![Graph Report](project%20artifacts/screenshots/graph%20report.png)  
+
+### Detailed Report (Captured Credentials, Clicks, etc.)  
+![Detailed Report](project%20artifacts/screenshots/detailed%20report.png)  
+
+---
+
+##  Step 6: Redirecting Users to the Legitimate Website  
+### Final Redirect to the Real Latch Website  
+![Learn More Redirect](project%20artifacts/screenshots/learn%20more%20redirect.png) 
+
 
