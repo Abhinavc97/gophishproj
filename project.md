@@ -62,7 +62,7 @@ This project provided hands-on experience with GoPhish and demonstrated how phis
 ---
 # **[Project Artifacts](project%20artifacts):**
 
-## Screeshots:
+## Screenshots:
 
 ## Step 1: Setting Up Gophish & Deploying on Railway  
 ### Deploying Gophish on Railway  
